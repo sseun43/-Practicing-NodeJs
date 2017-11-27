@@ -1,0 +1,2 @@
+###  USING NODEJS HTTPS METHOD TO MAKE API REQUEST
+###### At Junction hackhaton, I got the opportunity to call FORTUM energy API, which consist of over 2 million data that represent the energy consumed for everys second of a particular month and I was able to call this data and clean it up to show only energy consumed at 20:00 hours with NODEJS. I then served this data online using express
